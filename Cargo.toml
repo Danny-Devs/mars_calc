@@ -1,6 +1,6 @@
 [package]
 name = "mars_calc"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Calculate your weight on Mars - a simple CLI calculator"
 authors = ["Daniel Ahn <et3rnal.d@gmail.com>"]

@@ -10,4 +10,8 @@ readme = "README.md"
 keywords = ["mars", "weight", "calculator", "space", "physics"]
 categories = ["command-line-utilities", "science"]
 
+[[bin]]
+name = "mars_calc"
+path = "src/main.rs"
+
 [dependencies]
